@@ -755,14 +755,6 @@ section {
   font-size: 32px;
 }
 
-.about .icon-box:hover .icon {
-  background: #1977cc;
-  border-color: #1977cc;
-}
-
-.about .icon-box:hover .icon i {
-  color: #fff;
-}
 
 .about .icon-box .title {
   margin-left: 85px;
@@ -774,10 +766,6 @@ section {
 .about .icon-box .title a {
   color: #343a40;
   transition: 0.3s;
-}
-
-.about .icon-box .title a:hover {
-  color: #1977cc;
 }
 
 .about .icon-box .description {
