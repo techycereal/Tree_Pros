@@ -707,7 +707,8 @@ progress {
 }
 
 .img-fluid {
-  height: auto;
+  width: 620px;
+  height: 349px;
 }
 
 .img-thumbnail {
